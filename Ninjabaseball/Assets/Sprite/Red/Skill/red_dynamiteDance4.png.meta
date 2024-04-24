@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: efcf11e91f13fb5448930df09ba10a76
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_dynamiteDance4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cda080e0f5d5be41911eea636b5b678
+      internalID: 427794050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d910bc47f881d64a90aeabe35bdcd6a
+      internalID: -71197385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410fbd56bddcbef449fea7f9da22efed
+      internalID: -1801586506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_3
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c2a96f9ac74d428becd2e0ecaffc5
+      internalID: 1400965116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_4
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a37a293c8495db4dacec600379e72de
+      internalID: 2092989683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_5
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ae462f65399248ba15e419098723a
+      internalID: -2059535844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_6
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831779fece43ba6428fc19e9e0f4f5b8
+      internalID: -1162436128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_7
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d20c90d4ff975946a5dfb11eba19e18
+      internalID: 1937269491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_8
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe259a0d8a4ca4ebca00b21dcc179c
+      internalID: 782736581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_9
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 326
+        width: 533
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5c98342b6efc4438655acffdbd6022
+      internalID: -1435227664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d667d612137b64488ef00224c39b77
+      internalID: 332136008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_11
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1d84b2179c0b84a9b06034bad49232
+      internalID: 1835472011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99c680ac33244b4f9636ba6fc665478
+      internalID: -287492151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_13
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8445a322f476f2f46a1b87a7c157b104
+      internalID: -967497883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_14
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab96f40a303574496aade640bcf6e5
+      internalID: -2048208028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_15
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eda82b3ba149d4aab31781efa1ee71
+      internalID: -2124622028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_16
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2dc01496df664c8f8cd25f87b24db
+      internalID: 1186131956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_17
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bacf0a8cb0faf040b2c89fb9efbe3a2
+      internalID: 1046510998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_18
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c4fff67c520844a37a4e0df4d4409
+      internalID: -1623244082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_dynamiteDance4_19
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 0
+        width: 533.2
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb17acaa6361f438c01ad2041cc6c2
+      internalID: -1681002029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red_dynamiteDance4_0: 427794050
+      red_dynamiteDance4_1: -71197385
+      red_dynamiteDance4_10: 332136008
+      red_dynamiteDance4_11: 1835472011
+      red_dynamiteDance4_12: -287492151
+      red_dynamiteDance4_13: -967497883
+      red_dynamiteDance4_14: -2048208028
+      red_dynamiteDance4_15: -2124622028
+      red_dynamiteDance4_16: 1186131956
+      red_dynamiteDance4_17: 1046510998
+      red_dynamiteDance4_18: -1623244082
+      red_dynamiteDance4_19: -1681002029
+      red_dynamiteDance4_2: -1801586506
+      red_dynamiteDance4_3: 1400965116
+      red_dynamiteDance4_4: 2092989683
+      red_dynamiteDance4_5: -2059535844
+      red_dynamiteDance4_6: -1162436128
+      red_dynamiteDance4_7: 1937269491
+      red_dynamiteDance4_8: 782736581
+      red_dynamiteDance4_9: -1435227664
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

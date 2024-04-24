@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 1e3b25c2f9b767b4d867c318e4e1f9aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_0"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 299
+        width: 269
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166ba39dee7b93c4f9244e13c51d9638
+      internalID: 2023046148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_1"
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 299
+        width: 286
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa171696b69e8644d87bd7b9333d3662
+      internalID: 1406543378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_2"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 299
+        width: 289
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674ec62ad481ea541b31f7d35c6107df
+      internalID: 62349355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_3"
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 299
+        width: 271
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b370cec8eb75e3d4080a3eff40806025
+      internalID: -1637016083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_4"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 269
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f73ec20f5d8c39418586121b61259fc
+      internalID: -1231391091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_5"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 286
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732953c4f472e35469a551fb9ed6e514
+      internalID: -414063917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_6"
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 290
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d363498a07efb944baa71fe31e544c7
+      internalID: -1336743363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_7"
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 270
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3afed31b1a6154b8e0a4c07b23432d
+      internalID: 1352002804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_0": 2023046148
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_1": 1406543378
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_2": 62349355
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_3": -1637016083
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_4": -1231391091
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_5": -414063917
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_6": -1336743363
+      "Adobe Express 2024-04-12 11\uC2DC 20\uBD84 17\uCD08_7": 1352002804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

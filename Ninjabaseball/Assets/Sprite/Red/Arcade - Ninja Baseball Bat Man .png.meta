@@ -1,0 +1,2531 @@
+fileFormatVersion: 2
+guid: 664e83b56dd6af240bd3d64d292043fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 966
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d123ae438094644af87dd1722b3cc2
+      internalID: 1130301846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 968
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0309b461eea047e4ca0178f706a92188
+      internalID: -429440318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 967
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b7af013a3b7747b22c3bf902dbcfb
+      internalID: 363792672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 965
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1bc68303b843a45b7d3b59ffd67177
+      internalID: -1139873539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 965
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53e081a681a564083c2e3201a88cca
+      internalID: 635391683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 967
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a2a5a46b6e0440b34782f1f7f0276
+      internalID: -401220798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 968
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc19e26732e52d42a59047ef86644a5
+      internalID: 703001025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _7
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 969
+        width: 102
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f6065d72faf74a823daa7de693a7e
+      internalID: -1282542393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 973
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c39b536fd7bb6479a8a9441cd29f23
+      internalID: -764902280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 975
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b253a87937286f542981d5b5c9ecc2d5
+      internalID: 1075865146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _10
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 976
+        width: 95
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b526fb4e0c2064682b9dda0a02fa35
+      internalID: 366644154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _11
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 976
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9d5430b7028d4459bb641c317ffbad
+      internalID: 973094634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _12
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 967
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb8c1696b559d4194e68712a7b4917
+      internalID: 1132613923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 855
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9de61403897134391932cd4736188c
+      internalID: -1875759692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 857
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6d368df9696294fb30d06656984473
+      internalID: 1359126100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 856
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7477100d671c4294c931b9edbd03a3ed
+      internalID: -586391094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 856
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe247c9887d4cf54ca4391c2799365b7
+      internalID: -594105728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 856
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f852d41a59f6374899a5b0fca7e841d
+      internalID: -1503669770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 857
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785b51e94f09a248aa3d45ad02f2a6a
+      internalID: -1339223388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _19
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 864
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab374ecdc26a5d94a88cd85873d82a0e
+      internalID: -1790497045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _20
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 862
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4408ef10d00b7f841ad76244a82d60bf
+      internalID: -907096642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _21
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 864
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ad132e74011e54e80ff0d33da587b2
+      internalID: 1614055403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _22
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 862
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e58ca1eb133a49bba5ef20c30c1f7
+      internalID: 1456062590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 863
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d31b24f6fc1fc47b07bd6076b87547
+      internalID: 335342116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 865
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6fc315c2ca9db46bf3cfb81f96d88c
+      internalID: 164423634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _25
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 865
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa38f681f28bc5489dfbd1b65e253f2
+      internalID: 1049955509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _26
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 866
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4480da0026ceda54fa3bf73a60017d0e
+      internalID: 307587707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 773
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83552bf582c02704ab9a018c48458bdc
+      internalID: -1888580474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 769
+        width: 96
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0bce81371ef74398ed2481e4e2414
+      internalID: -820374284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 761
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2185c70f06b2c845a3be550f6e882f9
+      internalID: -832523501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 756
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37926cbd3c895e04a91fab805228cd4e
+      internalID: 2136269219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 756
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb0f0285801fa44b1481234e730907
+      internalID: -1992878966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _32
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 758
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5488a85d5516449db3b06dc3a74ec
+      internalID: -1759130060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 654
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3948c5765ed6540b5a1ba167cf8021
+      internalID: 104172691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 669
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61774b5280efe9943bab9516ab0d7680
+      internalID: -307870733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 670
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967f6d29ef51cbf45a24778c89f4d913
+      internalID: -659208166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 668
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb66a737a8b90143854e11ec995ff1c
+      internalID: -222691030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 669
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc97d26da83224db43eebbcda20fec
+      internalID: -1633614208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _38
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 670
+        width: 99
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca336953d9b1149a5710f12c5f38c2
+      internalID: 445119896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _39
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 664
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d1c7f966fc36e4ebcccaf88da2fe87
+      internalID: -1661305759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 667
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7496574b291045349ad1f4178f89574e
+      internalID: 158201044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _41
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 667
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced95fa5335f4d143a47ba1c8f026fe5
+      internalID: -1764002600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _42
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 664
+        width: 122
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fb40b4f5e62f047b40127be397339a
+      internalID: -1265159096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _43
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 656
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49be7377bbdab842a4be5af10d6a1e0
+      internalID: 934560499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 575
+        width: 94
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a9ec53b6f8a3142b13cd47053e260e
+      internalID: 2088926430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 563
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdf5dc96f09214cb61c14393c07bdd
+      internalID: -1246169893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 566
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dc5c02a08fe2749abec1e36cfa2d59
+      internalID: -981397136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 568
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c0b04edcde2642a03dc7876622b25
+      internalID: -433057746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 567
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a140c39a881cb45b5ba45899dc300f
+      internalID: -328478476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 555
+        width: 76
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f0d18d50cc68b449cddd357ea49e5b
+      internalID: 1939427136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 560
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0782048b5d00428b1320fb41e2ac6
+      internalID: 1539436922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _51
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 560
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc66775878c0c344bdba849b5d42bcf
+      internalID: -1504357839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _52
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 566
+        width: 109
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba1141e64da36e4d928c30b90689ad0
+      internalID: -467000843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _53
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 543
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c6cd395492fc429db68ebc8d5ae4e
+      internalID: 26536026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _54
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 550
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77c6fa0c49111e47a822865c02423a9
+      internalID: -1289371327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 453
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a9c7762a543a94a9992bff0fd4b8fb
+      internalID: 75289915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _56
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 456
+        width: 72
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dacf3b6fd99c9488d4ae59286ba922
+      internalID: 1721458114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 456
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3687c4ebb07524d40845a68dd514c018
+      internalID: -1658623567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _58
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 449
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba363828a8b19d4fb823ae602988ba7
+      internalID: 774504931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 450
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2711eb939fcc4646b72bbedc95559bc
+      internalID: 1614981448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _60
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 451
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaea993179b30948b4adbc3b3c05880
+      internalID: -1832677887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _61
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 457
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64481179f4351f24eb6f7bd5a4c4ee57
+      internalID: -1053290339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _62
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 457
+        width: 129
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a678e80946833546ac3a1ce8b3407c7
+      internalID: -240234438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _63
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 455
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befaeb4e44d196f4d838f05eb2b65a48
+      internalID: 854736017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 343
+        width: 53
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d082828bea3a047a98373cda7556d2
+      internalID: 579110099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 346
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1fdb9df70d8244b2ce5cb1354b1b6
+      internalID: -1015268812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 346
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d881f8119f1b14e960b72c0a205bb9
+      internalID: -1578778797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _67
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 344
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dcc0a983ee8b74aa3fb1b41ce18cb7
+      internalID: 1653682026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _68
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 345
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e0afbe94992748aca1d4b5de53ad5
+      internalID: -393307461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 347
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716e403d69bdf545af1ecea8150b855
+      internalID: -938962665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _70
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 348
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1e30b96aa3f3840958d90d807f3bfd
+      internalID: 880122080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _71
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 353
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346c211306f8ae4caaeed0e824399f1
+      internalID: -1614113087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 225
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19099c6723322347bb917c211e69df5
+      internalID: -1952584417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 224
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9324c454aa952d247b1f9a01c2e42482
+      internalID: -2077513208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _74
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 226
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540cbd3f973a02c438996b496a0c919c
+      internalID: -1149521927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _75
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 220
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81af6c02324bf43ab290f55dc3db39
+      internalID: -804036229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _76
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 224
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfac118ee32f34a830336e4168df5e
+      internalID: -1142995530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _77
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 223
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42aa48e319410042947e86df02faa76
+      internalID: -1857106478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _78
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 221
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51f6089f4792264898688d8d2d69afa
+      internalID: -1428691010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 135
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afc5430f405ab14aa8f3360652851d3
+      internalID: -1518795605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _80
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 213
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa0beda5e20fd4cafdadb332ac372f
+      internalID: -1484239122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _81
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 131
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc79a2013be8cc40b8e4a66d9d41860
+      internalID: 1859735176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _82
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 142
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ddefafe2862fb48aed1869b3a7e33d
+      internalID: 587322097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _83
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 137
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239554fb72f451844a1cb49925793985
+      internalID: -793250597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _84
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 143
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29088ecb6e24e744bdd882b11671618
+      internalID: -788044611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _85
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 136
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d496fa4766db94b902cb465cf7884c
+      internalID: 1243405622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _86
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 146
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66013974c350bec428abb147e2cf4e28
+      internalID: 1343450470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _87
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 207
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf38ce21e88e1f34190d59b10713693f
+      internalID: 1535653055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _88
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f464393ccfd5ddd41975ff0115f64e5c
+      internalID: 120528555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _89
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 138
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422855f62da38d4e836521f51e85096
+      internalID: 1892650098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _90
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 153
+        width: 87
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86dd592776c612438a0630662244e26
+      internalID: -816272788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _91
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 151
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7e4056d2131c445814e9cb6df7aadf
+      internalID: 1339707968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f888ed8c38b825419b9314a4409ac3c
+      internalID: -2116716202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _93
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 17
+        width: 76
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74045f7c3b7aa408e628b35dede8ce
+      internalID: 524553874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _94
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 20
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ffc23f61c67c641aaa738a2c35a2fa
+      internalID: -1576898524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _95
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 20
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44341710480c73b4abbbfb850b0572c1
+      internalID: 647076274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _96
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 12
+        width: 59
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf59ae3bcd17fc4caf44681e348d8f8
+      internalID: 1063372456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _97
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 12
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ec592b1c37e514887d97c0f73f59bd
+      internalID: 961877054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 17
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0005f409d60188445845f7cc31bfacf4
+      internalID: 2049427727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _99
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 53
+        width: 214
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce07a1be0431246992db46eba1659d
+      internalID: 351735121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _100
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 18
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f165dc1869ccf948816dbe9bda398c3
+      internalID: 1468646962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _101
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 17
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16579638a9e1c4197fb2383fbeeba0
+      internalID: 2082874216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _102
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d3bc7ec942e3409d6b5ceea090157
+      internalID: -369760500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _103
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 18
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361f9ad0d336cd49a17e1d876decb1a
+      internalID: -965812341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _104
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 18
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10df67a36defd941a03a883c739a8b2
+      internalID: -571432011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _105
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 18
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48106892b260a246b3f955d63542563
+      internalID: -1752118804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _106
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 18
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbab4b106610784d904102e27a24f53
+      internalID: 1239545007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _107
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 18
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fefb2d2c747b2469129e505937bd95
+      internalID: -1575335971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _108
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 18
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4752ee533f5d709439b295387e16cfd9
+      internalID: -1024715713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Ninja Baseball Bat Man _109
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 18
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a28740d1070734694e4f6a8c706f0d
+      internalID: -1282907963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Ninja Baseball Bat Man _0: 1130301846
+      Arcade - Ninja Baseball Bat Man _1: -429440318
+      Arcade - Ninja Baseball Bat Man _10: 366644154
+      Arcade - Ninja Baseball Bat Man _100: 1468646962
+      Arcade - Ninja Baseball Bat Man _101: 2082874216
+      Arcade - Ninja Baseball Bat Man _102: -369760500
+      Arcade - Ninja Baseball Bat Man _103: -965812341
+      Arcade - Ninja Baseball Bat Man _104: -571432011
+      Arcade - Ninja Baseball Bat Man _105: -1752118804
+      Arcade - Ninja Baseball Bat Man _106: 1239545007
+      Arcade - Ninja Baseball Bat Man _107: -1575335971
+      Arcade - Ninja Baseball Bat Man _108: -1024715713
+      Arcade - Ninja Baseball Bat Man _109: -1282907963
+      Arcade - Ninja Baseball Bat Man _11: 973094634
+      Arcade - Ninja Baseball Bat Man _12: 1132613923
+      Arcade - Ninja Baseball Bat Man _13: -1875759692
+      Arcade - Ninja Baseball Bat Man _14: 1359126100
+      Arcade - Ninja Baseball Bat Man _15: -586391094
+      Arcade - Ninja Baseball Bat Man _16: -594105728
+      Arcade - Ninja Baseball Bat Man _17: -1503669770
+      Arcade - Ninja Baseball Bat Man _18: -1339223388
+      Arcade - Ninja Baseball Bat Man _19: -1790497045
+      Arcade - Ninja Baseball Bat Man _2: 363792672
+      Arcade - Ninja Baseball Bat Man _20: -907096642
+      Arcade - Ninja Baseball Bat Man _21: 1614055403
+      Arcade - Ninja Baseball Bat Man _22: 1456062590
+      Arcade - Ninja Baseball Bat Man _23: 335342116
+      Arcade - Ninja Baseball Bat Man _24: 164423634
+      Arcade - Ninja Baseball Bat Man _25: 1049955509
+      Arcade - Ninja Baseball Bat Man _26: 307587707
+      Arcade - Ninja Baseball Bat Man _27: -1888580474
+      Arcade - Ninja Baseball Bat Man _28: -820374284
+      Arcade - Ninja Baseball Bat Man _29: -832523501
+      Arcade - Ninja Baseball Bat Man _3: -1139873539
+      Arcade - Ninja Baseball Bat Man _30: 2136269219
+      Arcade - Ninja Baseball Bat Man _31: -1992878966
+      Arcade - Ninja Baseball Bat Man _32: -1759130060
+      Arcade - Ninja Baseball Bat Man _33: 104172691
+      Arcade - Ninja Baseball Bat Man _34: -307870733
+      Arcade - Ninja Baseball Bat Man _35: -659208166
+      Arcade - Ninja Baseball Bat Man _36: -222691030
+      Arcade - Ninja Baseball Bat Man _37: -1633614208
+      Arcade - Ninja Baseball Bat Man _38: 445119896
+      Arcade - Ninja Baseball Bat Man _39: -1661305759
+      Arcade - Ninja Baseball Bat Man _4: 635391683
+      Arcade - Ninja Baseball Bat Man _40: 158201044
+      Arcade - Ninja Baseball Bat Man _41: -1764002600
+      Arcade - Ninja Baseball Bat Man _42: -1265159096
+      Arcade - Ninja Baseball Bat Man _43: 934560499
+      Arcade - Ninja Baseball Bat Man _44: 2088926430
+      Arcade - Ninja Baseball Bat Man _45: -1246169893
+      Arcade - Ninja Baseball Bat Man _46: -981397136
+      Arcade - Ninja Baseball Bat Man _47: -433057746
+      Arcade - Ninja Baseball Bat Man _48: -328478476
+      Arcade - Ninja Baseball Bat Man _49: 1939427136
+      Arcade - Ninja Baseball Bat Man _5: -401220798
+      Arcade - Ninja Baseball Bat Man _50: 1539436922
+      Arcade - Ninja Baseball Bat Man _51: -1504357839
+      Arcade - Ninja Baseball Bat Man _52: -467000843
+      Arcade - Ninja Baseball Bat Man _53: 26536026
+      Arcade - Ninja Baseball Bat Man _54: -1289371327
+      Arcade - Ninja Baseball Bat Man _55: 75289915
+      Arcade - Ninja Baseball Bat Man _56: 1721458114
+      Arcade - Ninja Baseball Bat Man _57: -1658623567
+      Arcade - Ninja Baseball Bat Man _58: 774504931
+      Arcade - Ninja Baseball Bat Man _59: 1614981448
+      Arcade - Ninja Baseball Bat Man _6: 703001025
+      Arcade - Ninja Baseball Bat Man _60: -1832677887
+      Arcade - Ninja Baseball Bat Man _61: -1053290339
+      Arcade - Ninja Baseball Bat Man _62: -240234438
+      Arcade - Ninja Baseball Bat Man _63: 854736017
+      Arcade - Ninja Baseball Bat Man _64: 579110099
+      Arcade - Ninja Baseball Bat Man _65: -1015268812
+      Arcade - Ninja Baseball Bat Man _66: -1578778797
+      Arcade - Ninja Baseball Bat Man _67: 1653682026
+      Arcade - Ninja Baseball Bat Man _68: -393307461
+      Arcade - Ninja Baseball Bat Man _69: -938962665
+      Arcade - Ninja Baseball Bat Man _7: -1282542393
+      Arcade - Ninja Baseball Bat Man _70: 880122080
+      Arcade - Ninja Baseball Bat Man _71: -1614113087
+      Arcade - Ninja Baseball Bat Man _72: -1952584417
+      Arcade - Ninja Baseball Bat Man _73: -2077513208
+      Arcade - Ninja Baseball Bat Man _74: -1149521927
+      Arcade - Ninja Baseball Bat Man _75: -804036229
+      Arcade - Ninja Baseball Bat Man _76: -1142995530
+      Arcade - Ninja Baseball Bat Man _77: -1857106478
+      Arcade - Ninja Baseball Bat Man _78: -1428691010
+      Arcade - Ninja Baseball Bat Man _79: -1518795605
+      Arcade - Ninja Baseball Bat Man _8: -764902280
+      Arcade - Ninja Baseball Bat Man _80: -1484239122
+      Arcade - Ninja Baseball Bat Man _81: 1859735176
+      Arcade - Ninja Baseball Bat Man _82: 587322097
+      Arcade - Ninja Baseball Bat Man _83: -793250597
+      Arcade - Ninja Baseball Bat Man _84: -788044611
+      Arcade - Ninja Baseball Bat Man _85: 1243405622
+      Arcade - Ninja Baseball Bat Man _86: 1343450470
+      Arcade - Ninja Baseball Bat Man _87: 1535653055
+      Arcade - Ninja Baseball Bat Man _88: 120528555
+      Arcade - Ninja Baseball Bat Man _89: 1892650098
+      Arcade - Ninja Baseball Bat Man _9: 1075865146
+      Arcade - Ninja Baseball Bat Man _90: -816272788
+      Arcade - Ninja Baseball Bat Man _91: 1339707968
+      Arcade - Ninja Baseball Bat Man _92: -2116716202
+      Arcade - Ninja Baseball Bat Man _93: 524553874
+      Arcade - Ninja Baseball Bat Man _94: -1576898524
+      Arcade - Ninja Baseball Bat Man _95: 647076274
+      Arcade - Ninja Baseball Bat Man _96: 1063372456
+      Arcade - Ninja Baseball Bat Man _97: 961877054
+      Arcade - Ninja Baseball Bat Man _98: 2049427727
+      Arcade - Ninja Baseball Bat Man _99: 351735121
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
